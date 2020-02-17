@@ -31,13 +31,33 @@
 // ```
 // [NUMBER] is negative.
 // ```
-let  Number1 =prompt ("Enter a Number")
-let Number1 == positve
-if (Number1 >= 0) {
-    console.log ("Number is Positive")
+// let  Number1 =prompt ("Enter a Number")
+// let Number1 == positve
+// if (Number1 >= 0) {
+//     console.log ("Number is Positive")
+// }
+//  else (Number1 <= 0) 
+//     console.log("Number is Negative");
+
+//     ### Problem 3 :
+// Ask the user to enter a number. Ask the user to enter another number. If the sum of those two numbers is even alert the user 
+// ```
+// The sum of [FIRST NUMBER] and [SECOND NUMBER] is even.
+// ```
+// Oherwise alert the user
+// ```
+// The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
+
+// ```
+let user1 =prompt("Enter a number")
+let user2 =prompt ("Enter another Number") 
+let sum = user1 =-user2
+
+
+if ("sum == user1 && user2");{
+    console.log ("The sum of user1 and user2 is even")
 }
- else (Number1 <= 0) 
-    console.log("Number is Negative");
+
 
 
 
