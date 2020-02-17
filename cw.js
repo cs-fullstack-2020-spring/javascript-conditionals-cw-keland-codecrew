@@ -49,14 +49,17 @@
 // The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
 
 // ```
-let user1 =prompt("Enter a number")
+let user1 =prompt ("Enter a number")
 let user2 =prompt ("Enter another Number") 
 let sum = user1 + user2
 
 
-if (sum = user1 == user2 %2);{
+if (sum = user1 == user2 %2){
+
     console.log ("The sum of user1 and user2 is even")
 }
+
+
 
 
 
