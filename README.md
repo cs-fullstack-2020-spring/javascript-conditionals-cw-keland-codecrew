@@ -1,6 +1,6 @@
 # Javascript Conditionals Classwork
 ### Problem 1 :
-Create two variables
+<!-- Create two variables
 ```
 let anyWord = [WORD]
 let theSameWord = [WORD]
@@ -14,7 +14,7 @@ Else print
 ```
 THAT IS...
 NOT CORRECT
-```
+``` -->
 ### Problem 2 :
 Ask the user to enter a number. If the number is positive print 
 ```
