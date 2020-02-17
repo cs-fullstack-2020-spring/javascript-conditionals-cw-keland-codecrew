@@ -52,16 +52,18 @@
 // The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
 
 // ```
-let user1 =prompt("Enter a number")
+let user1 =prompt ("Enter a number")
 let user2 =prompt ("Enter another Number") 
 let sum = user1 + user2
 
-// single equal sign sets a value and double equal sign compares values
-// the only condition that should be passed in this if statment is [is sum even]
-// an even number is divisible by 2 with NO REMAINDER
-if (sum = user1 == user2 %2);{
+// the only condition that should be in this is statment is [is sum even]
+// an even number is divisble by 2 with NO REMAINDER
+if (sum = user1 == user2 %2){
+
     console.log ("The sum of user1 and user2 is even")
 }
+
+
 
 
 
